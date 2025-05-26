@@ -137,19 +137,21 @@ figcaption {
 
 // List
 ul {
-  list-style: none;
+  list-style-type: none;
   li {
     display: list-item;
     text-align: -webkit-match-parent;
   }
   li::before {
-    content: "\FE63";
+    content: "\25CF";
     display: inline-block;
-    top: -1px;
+    top: -2px;
     width: 1.2em;
     position: relative;
+    font-weight: normal;
     margin-left: -1.3em;
-    font-weight: 700;
+    margin-right: 0.5em;
+    font-size: 0.4em;
   }
 }
 

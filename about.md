@@ -1,18 +1,14 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: 서버 개발자 이하늘입니다.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+데이터와 트래픽 규모가 커지면 서비스는 자연스럽게 성능 저하와 안정성 문제에 직면하게 됩니다. 이를 해결하기 위한 많은 검증된 방법들과 사례가 존재하는데요. 저는 다양한 방법들 속에서 현재 상황에 가장 적합한 의사결정을 내릴 수 있는 개발자로 성장하고 싶습니다. 이러한 유형의 개발자는 한정된 팀의 리소스를 효율적으로 활용하고, 문제의 본질을 정확히 파악하여 팀을 올바른 방향으로 이끄는 데 기여할 수 있다고 믿기 때문입니다.
 
-If you have a question about him or else, just send a letter to him.
+**More Information.**
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- email : {{ site.author.email }}
+- github : github.com/{{ site.author.github }}
